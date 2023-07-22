@@ -6,8 +6,8 @@ This is a solution to the QR code component challenge on Frontend Mentor. Fronte
 
 
 ## Links
-- Solution Link : 
-- Live Link : 
+- Solution Link : https://github.com/Psargar616/qr-code-component/tree/main
+- Live Link : https://qr-code-frontendmentor-soln.netlify.app/
 ## My process
 
 Built with:
